@@ -8,3 +8,6 @@ first modification
 локальные данные переопределения конфигурации (override.tf override.tf.json, *_override.tf,*_override.tf.json),
 временный файл блокировки состояния(.terraform.tfstate.lock.info),
 локальные файлы конфигурации Terraform CLI(.terraformrc, terraform.rc).
+
+
+Изменения в ветке fix
