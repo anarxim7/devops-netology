@@ -11,3 +11,5 @@ first modification
 
 
 Изменения в ветке fix
+
+Первый коммит через Pycharm
