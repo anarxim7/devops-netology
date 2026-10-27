@@ -15,3 +15,5 @@ first modification
 Первый коммит через Pycharm
 
 Второй коммит через Pycharm
+
+Коммит в ветке fix
